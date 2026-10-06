@@ -1,4 +1,4 @@
-## Artem Gabatov — Senior Backend Engineer
+## Artem Gabatov - Senior Backend Engineer
 
 Node.js / NestJS, TypeScript. I build event-driven systems: microservices on Kafka, CDC and streaming pipelines with Flink, and domain models that hold their invariants under DDD.
 
